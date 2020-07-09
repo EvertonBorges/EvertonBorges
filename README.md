@@ -10,7 +10,7 @@ Mobile developer and a student of front-end technologies.
 Desenvolvedor mobile e estudioso em tecnologias front-end.
 
 - 🔭 Trabalhando atualmente na [Tap4Mobile](https://tap4mobile.com.br/);
-- 🌱 Atualmente estou aprendendo React, NodeJS and another front-end frameworks;
+- 🌱 Atualmente estou aprendendo React, NodeJS e outras frameworks front-end;
 - 👯 Gostaria de contribuir em projetos front-end;
 - 💬 Pode me mandar dúvidas sobre Java, Javascript, HTML/CSS, Android, Kotlin;
 
