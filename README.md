@@ -1,13 +1,13 @@
 ### Hi there / Olá 👋
 
-Professionally I am a mobile developer and a student of front-end technologies.
+Mobile developer and a student of front-end technologies.
 
 - 🔭 I’m currently working on [Tap4Mobile](https://tap4mobile.com.br/);
 - 🌱 I’m currently learning React, NodeJS and another front-end frameworks;
 - 👯 I’m looking to collaborate on front-end projects;
 - 💬 Ask me about Java, Javascript, HTML, Android, Kotlin;
 
-Profissionalmente sou desenvolvedor mobile e estudioso em tecnologias front-end.
+Desenvolvedor mobile e estudioso em tecnologias front-end.
 
 - 🔭 Trabalhando atualmente na [Tap4Mobile](https://tap4mobile.com.br/);
 - 🌱 Atualmente estou aprendendo React, NodeJS and another front-end frameworks;
