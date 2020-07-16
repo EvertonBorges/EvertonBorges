@@ -1,3 +1,11 @@
+## Everton Borges
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EvertonBorges)](https://github.com/EvertonBorges)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everton-soares-borges/)](https://www.linkedin.com/in/everton-soares-borges/)
+[![Itch.io Badge](https://img.shields.io/badge/-itch.io-orange?style=flat-square&logo=itch.io&logoColor=white&link=https://www.linkedin.com/in/everton-soares-borges/)](https://evertonborges.itch.io/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/EvertonBorges)](https://t.me/EvertonBorges)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evertonsoaresborges@gmail.com)](mailto:evertonsoaresborges@gmail.com)
+
 ### Hi there / Olá 👋
 
 Mobile developer and a student of front-end technologies.
@@ -13,10 +21,3 @@ Desenvolvedor mobile e estudioso em tecnologias front-end.
 - 🌱 Atualmente estou aprendendo React, NodeJS e outras frameworks front-end;
 - 👯 Gostaria de contribuir em projetos front-end;
 - 💬 Pode me mandar dúvidas sobre Java, Javascript, HTML/CSS, Android, Kotlin;
-
-### 📫 How to reach me / Contatos:
-
-[![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=Gmail&style=social)](mailto:evertonsoaresborges@gmail.com)
-[![Github](https://img.shields.io/badge/--github?label=github&logo=github&style=social)](https://github.com/EvertonBorges)
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/everton-soares-borges/)
-[![Itch.io](https://img.shields.io/badge/--itchio?label=Itch.io&logo=Itch.io&style=social)](https://evertonborges.itch.io/)
