@@ -10,14 +10,14 @@
 
 Mobile developer and a student of front-end technologies.
 
-- 🔭 I’m currently working on [Tap4Mobile](https://tap4mobile.com.br/);
+- 🔭 I’m currently working on [SIDIA](https://www.sidia.com/);
 - 🌱 I’m currently learning React, NodeJS and another front-end frameworks;
 - 👯 I’m looking to collaborate on front-end projects;
 - 💬 Ask me about Java, Javascript, HTML, Android, Kotlin;
 
 Desenvolvedor mobile e estudioso em tecnologias front-end.
 
-- 🔭 Trabalhando atualmente na [Tap4Mobile](https://tap4mobile.com.br/);
+- 🔭 Trabalhando atualmente na [SIDIA](https://www.sidia.com/);
 - 🌱 Atualmente estou aprendendo React, NodeJS e outras frameworks front-end;
 - 👯 Gostaria de contribuir em projetos front-end;
 - 💬 Pode me mandar dúvidas sobre Java, Javascript, HTML/CSS, Android, Kotlin;
