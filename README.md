@@ -17,7 +17,7 @@ Mobile developer and a student of front-end technologies.
 
 Desenvolvedor mobile e estudioso em tecnologias front-end.
 
-- 🔭 Trabalhando atualmente na [SIDIA](https://www.sidia.com/);
+- 🔭 Trabalhando atualmente no [SIDIA](https://www.sidia.com/);
 - 🌱 Atualmente estou aprendendo React, NodeJS e outras frameworks front-end;
 - 👯 Gostaria de contribuir em projetos front-end;
 - 💬 Pode me mandar dúvidas sobre Java, Javascript, HTML/CSS, Android, Kotlin;
