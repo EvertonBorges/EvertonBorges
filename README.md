@@ -8,16 +8,16 @@
 
 ### Hi there / Olá 👋
 
-Mobile developer and a student of front-end technologies.
+Unity developer and a student of front-end technologies.
 
 - 🔭 I’m currently working on [SIDIA](https://www.sidia.com/);
-- 🌱 I’m currently learning React, NodeJS and another front-end frameworks;
-- 👯 I’m looking to collaborate on front-end projects;
-- 💬 Ask me about Java, Javascript, HTML, Android, Kotlin;
+- 🌱 I’m currently learning Unity, C#, React e React Native;
+- 👯 I’m looking to collaborate on game projects;
+- 💬 Ask me about Unity, C#, Java, Android and Kotlin;
 
 Desenvolvedor mobile e estudioso em tecnologias front-end.
 
 - 🔭 Trabalhando atualmente no [SIDIA](https://www.sidia.com/);
-- 🌱 Atualmente estou aprendendo React, NodeJS e outras frameworks front-end;
-- 👯 Gostaria de contribuir em projetos front-end;
-- 💬 Pode me mandar dúvidas sobre Java, Javascript, HTML/CSS, Android, Kotlin;
+- 🌱 Atualmente estou aprendendo Unity, C#, React e React Native;
+- 👯 Gostaria de contribuir em projetos de games;
+- 💬 Pode me mandar dúvidas sobre Unity, C#, Java, Android e Kotlin;
