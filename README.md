@@ -8,16 +8,16 @@
 
 ### Hi there / Olá 👋
 
-Unity developer and a student of front-end technologies.
+Professional Unity Developer.
 
 - 🔭 I’m currently working on [SIDIA](https://www.sidia.com/);
-- 🌱 I’m currently learning Unity, C#, React e React Native;
+- 🌱 I’m currently learning Unity, C# and game development things;
 - 👯 I’m looking to collaborate on game projects;
-- 💬 Ask me about Unity, C#, Java, Android and Kotlin;
+- 💬 Ask me about Unity, C# and Java;
 
-Desenvolvedor mobile e estudioso em tecnologias front-end.
+Desenvolvedor Unity.
 
 - 🔭 Trabalhando atualmente no [SIDIA](https://www.sidia.com/);
-- 🌱 Atualmente estou aprendendo Unity, C#, React e React Native;
+- 🌱 Atualmente estou aprendendo Unity, C# e coisas de desenvolvimento de jogos;
 - 👯 Gostaria de contribuir em projetos de games;
-- 💬 Pode me mandar dúvidas sobre Unity, C#, Java, Android e Kotlin;
+- 💬 Pode me mandar dúvidas sobre Unity, C# e Java;
