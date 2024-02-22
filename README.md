@@ -10,14 +10,12 @@
 
 Professional Unity Developer.
 
-- 🔭 I’m currently working on [SIDIA](https://www.sidia.com/);
 - 🌱 I’m currently learning Unity, C# and game development things;
 - 👯 I’m looking to collaborate on game projects;
 - 💬 Ask me about Unity, C# and Java;
 
 Desenvolvedor Unity.
 
-- 🔭 Trabalhando atualmente no [SIDIA](https://www.sidia.com/);
 - 🌱 Atualmente estou aprendendo Unity, C# e coisas de desenvolvimento de jogos;
 - 👯 Gostaria de contribuir em projetos de games;
 - 💬 Pode me mandar dúvidas sobre Unity, C# e Java;
